@@ -25,12 +25,7 @@ Das Seminar umfasst 5 ECTS-Punkte. Dies entspricht 125 Stunden:
 
 ## Lernaufgaben
 
-Im Verlauf des Seminars beantworten Sie vier Lernaufgaben. Lernaufgaben beschäftigen sich mit zurückliegenden Themen des Seminars. Vor den ersten drei Lernaufgaben gibt es eine integrative Sitzung, in der wir die Themen der zurückliegenden Sitzungen zu verbinden versuchen. Jede Lernaufgabe umfasst mehrere offene Fragen. Aus den letzten drei Lernaufgaben bilde ich Ihre Note. Die erste Lernaufgabe wird *nicht* bewertet. Für die erste Lernaufgabe gebe ich Ihnen ein Beispiel, an dem Sie sich orientieren können. Das Bewertungsraster der Lernaufgaben finden Sie im nächsten Abschnitt. Die Abgaben der Lernaufgaben finden Sie unter den [Termine](##Termine).  
-
-*   18.11.2016: Lernaufgabe I
-*   16.12.2016: Lernaufgabe II
-*   03.02.2016: Lernaufgabe III
-*   24.02.2016: Lernaufgabe IV
+Im Verlauf des Seminars beantworten Sie vier Lernaufgaben. Lernaufgaben beschäftigen sich mit zurückliegenden Themen des Seminars. Vor den ersten drei Lernaufgaben gibt es eine integrative Sitzung, in der wir die Themen der zurückliegenden Sitzungen zu verbinden versuchen. Jede Lernaufgabe umfasst mehrere offene Fragen. Aus den letzten drei Lernaufgaben bilde ich Ihre Note. Die erste Lernaufgabe wird *nicht* bewertet. Für die erste Lernaufgabe gebe ich Ihnen ein Beispiel, an dem Sie sich orientieren können. Das Bewertungsraster der Lernaufgaben finden Sie im nächsten Abschnitt. Die Abgaben der Lernaufgaben finden Sie unter den [Termine](##termine).
 
 ## Bewertungsraster Lernaufgaben
 
