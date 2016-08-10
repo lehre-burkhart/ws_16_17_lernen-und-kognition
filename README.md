@@ -67,10 +67,9 @@ Wenn Sie in Lernaufgabe II eine 2,0, in Lernaufgabe III eine 1,7 und in Lernaufg
 * 31.10. Gedächtnis I
 * 07.11. Gedächtnis II
 * 14.11. **Integration**
-* 18.11. *Lernaufgabe I*
-* 21.11. Wissensrepräsentation
-* 28.11. Lernen
-* 05.12. Lernstrategien
+* 21.11. *Lernaufgabe I*
+* 28.11. Wissensrepräsentation
+* 05.12. Lernen
 * 12.12. **Integration**
 * 16.12. *Lernaufgabe II*
 * 19.12. Expertise
