@@ -4,9 +4,9 @@
 
 *Kognition, Emotion, Motivation*. Der menschliche Geist wird häufig in Emotion, Motivation und Kognition unterteilt. Kognition ist nur ein Teil des menschlichen Geistes. Menschliches Verhalten lässt sich erst aus dem Zusammenspiel der drei Komponenten verstehen. Alkohol beispielsweise, welches euphorisierend wirkt, hat einen negativen Einfluss auf die Einspeicherung neuen Wissens ([Wixted, 2004)](http://amygdala.psychdept.arizona.edu/Jclub/Wixted_2004.pdf)). In diesem Seminar beschäftigen wir uns mit der Kognition. Emotion und Motivation sind nicht Gegenstand dieses Seminars. In den folgenden Semestern werden Sie die drei Komponenten zusammen führen. 
 
-*Aufbau Seminar*. Zu Beginn des Seminars beschäftigen wir uns mit grundlegenden Prozessen des menschlichen Gedächtnisses. Wir besprechen die Wichtigkeit der Aufmerksamkeit für die Verarbeitung von Sinnesreizen; Sie lernen Theorien kennen, die beschreiben, wie das Gedächtnis aufgebaut ist. Nachdem den grundlegenden Prozessen beschäftigen wir uns mit höheren geistigen Prozessen. Wir überlegen uns, was Experten von Novizen unterscheidet, was Transfer beim Lernen bedeutet, oder was unter Intelligenz verstanden wird.
+*Aufbau Seminar*. Zu Beginn des Seminars beschäftigen wir uns mit grundlegenden Prozessen des menschlichen Gedächtnisses. Wir besprechen die Wichtigkeit der Aufmerksamkeit für die Verarbeitung von Sinnesreizen; Sie lernen Theorien kennen, die beschreiben, wie das Gedächtnis aufgebaut ist. Nachdem den grundlegenden Prozessen beschäftigen wir uns mit höheren geistigen Prozessen. Wir überlegen uns, was Experten von Novizen unterscheidet, was Transfer beim Lernen bedeutet, oder was unter Intelligenz verstanden wird. Um sich die Inhalte anzueignen werden Sie vier Lernaufgaben bearbeiten. Lernaufgaben befassen sich mit den Inhalten der zurückliegenden Sitzungen. Aus der Bewertung Ihrer letzten drei Lernaufgaben bilde ich Ihre Note. 
 
-*Präsenzsitzungen*. Das Seminar wird von mir geleitet. Jedes Seminar beginnt mit einem kurzen Einführungsvortrag und einer von mir angeleiteten Gruppenarbeit. Vor dem Seminar lesen Sie die Literatur zur Seminarsitzung. Außerhalb des Seminars werden Sie vier Lernaufgaben bearbeiten. Lernaufgaben befassen sich mit den Inhalten der zurückliegenden Sitzungen. Aus der Bewertung Ihrer letzten drei Lernaufgaben bilde ich Ihre Note. 
+*Präsenzsitzungen*. Das Seminar wird von mir geleitet. Es gibt zwei Arten von Sitzungen. (1) Inhaltliche Sitzungen und (2) Integrationssitzungen. (1) Inhaltliche sitzungen Seminar beginnen mit einem kurzen Einführungsvortrag und einer von mir angeleiteten Gruppenarbeit. Vor dem Seminar lesen Sie die Literatur zur Seminarsitzung. (2) In den Integrationssitzungen tagen wir zusammen, was Sie in den inhaltlichen Sitzungen gelernt haben. In Ihrer Gruppe fertigen Sie fortwährend eine [Concept-Map](https://de.wikipedia.org/wiki/Concept-Map) an.
 
 *Ilias*. Die Literatur, die Foren und die Abgaben finden Sie auf [Ilias](https://ilias.uni-freiburg.de/goto.php?target=crs_634600&client_id=unifreiburg). GitHub dient lediglich der Darstellung des Syllabus.
 
@@ -35,7 +35,6 @@ Im Verlauf des Seminars beantworten Sie vier Lernaufgaben. Lernaufgaben beschäf
 
 ## Bewertungsraster Lernaufgaben
 
-
 | Kriterium   | Übersteigt Erwartungen   |
 |---------- | ----------- | ------------- | 
 | Zeitplanung          |  Die Person hat alle Lernaufgaben und alle Kommentare fristgerecht abgegeben. |
@@ -59,6 +58,12 @@ Die Note wird aus dem arithmetischen Mittel der letzten drei Lernaufgaben gebild
 
 
 Wenn Sie in Lernaufgabe II eine 2,0, in Lernaufgabe III eine 1,7 und in Lernaufgabe IV eine 1,3 bekommen haben, schließen Sie das Seminar mit der Note `(2,0 + 1,7 + 1,3) / 3) = 1.66 ~ 1.7` ab. Die Note runde ich auf die nächststehende universitäre Note.
+
+Das Seminar gilt bestanden, wenn ...
+
+* das Seminar regelmäßig besucht wurde (maximal 1 Fehltermin)
+* die Lernaufgaben bestanden haben
+* ihre Concept-Map am Ende des Seminars abgegeben haben
 
 ## Termine
 
