@@ -2,11 +2,11 @@
 
 *Thema*. In diesem Seminar befassen Sie sich mit Lernen und Kognition. Lernen verstehen wir als die dauerhafte Veränderung des Verhaltens und der Gedanken von Lebewesen. Kognition ist die Architektur, die diese Änderungen ermöglicht. Genauer beschreibt Kognition, wie Informationen durch diese Architektur verarbeitet werden. Beispielsweise sind wir nicht in der Lage, alle Informationen aus unserer Umwelt aufzunehmen. Zu jedem Zeitpunkt nehmen wir nur einen kleinen Teil unserer Umwelt auf. Die Architektur dahinter sind Aufmerksamkeitsprozesse, die wie ein Filter auf die Reize unserer Umwelt wirken (z.B. [Gradual Change Test](https://www.youtube.com/watch?v=1nL5ulsWMYc)).
 
-*Kognition, Emotion, Motivation*. Der menschliche Geist wird häufig in Emotion, Motivation und Kognition unterteilt. Kognition ist nur ein Teil des menschlichen Geistes. Menschliches Verhalten lässt sich erst aus dem Zusammenspiel der drei Komponenten verstehen. Alkohol beispielsweise, welches euphorisierend wirkt, hat einen negativen Einfluss auf die Einspeicherung neuen Wissens ([Wixted, 2004)](http://amygdala.psychdept.arizona.edu/Jclub/Wixted_2004.pdf)). In diesem Seminar beschäftigen wir uns mit der Kognition. Emotion und Motivation sind nicht Gegenstand dieses Seminars. In den folgenden Semestern werden Sie die drei Komponenten zusammen führen. 
+*Kognition, Emotion, Motivation*. Der menschliche Geist wird häufig in Emotion, Motivation und Kognition unterteilt. Kognition ist nur ein Teil des menschlichen Geistes. Menschliches Verhalten lässt sich erst aus dem Zusammenspiel der drei Komponenten verstehen. Alkohol beispielsweise, welches euphorisierend wirkt, hat einen negativen Einfluss auf die Einspeicherung neuen Wissens ([Wixted, 2004)](http://amygdala.psychdept.arizona.edu/Jclub/Wixted_2004.pdf). In diesem Seminar beschäftigen wir uns mit der Kognition. Emotion und Motivation sind nicht Gegenstand dieses Seminars. In den folgenden Semestern werden Sie die drei Komponenten zusammen führen. 
 
 *Aufbau Seminar*. Zu Beginn des Seminars beschäftigen wir uns mit grundlegenden Prozessen des menschlichen Gedächtnisses. Wir besprechen die Wichtigkeit der Aufmerksamkeit für die Verarbeitung von Sinnesreizen; Sie lernen Theorien kennen, die beschreiben, wie das Gedächtnis aufgebaut ist. Nachdem den grundlegenden Prozessen beschäftigen wir uns mit höheren geistigen Prozessen. Wir überlegen uns, was Experten von Novizen unterscheidet, was Transfer beim Lernen bedeutet, oder was unter Intelligenz verstanden wird. Um sich die Inhalte anzueignen werden Sie vier Lernaufgaben bearbeiten. Lernaufgaben befassen sich mit den Inhalten der zurückliegenden Sitzungen. Aus der Bewertung Ihrer letzten drei Lernaufgaben bilde ich Ihre Note. 
 
-*Präsenzsitzungen*. Das Seminar wird von mir geleitet. Es gibt zwei Arten von Sitzungen. (1) Inhaltliche Sitzungen und (2) Integrationssitzungen. (1) Inhaltliche sitzungen Seminar beginnen mit einem kurzen Einführungsvortrag und einer von mir angeleiteten Gruppenarbeit. Vor dem Seminar lesen Sie die Literatur zur Seminarsitzung. (2) In den Integrationssitzungen tagen wir zusammen, was Sie in den inhaltlichen Sitzungen gelernt haben. In Ihrer Gruppe fertigen Sie fortwährend eine [Concept-Map](https://de.wikipedia.org/wiki/Concept-Map) an.
+*Präsenzsitzungen*. Das Seminar wird von mir geleitet. Es gibt zwei Arten von Sitzungen. (1) Inhaltliche Sitzungen und (2) Integrationssitzungen. (1) Inhaltliche Sitzungen beginnen mit einem kurzen Einführungsvortrag und einer von mir angeleiteten Gruppenarbeit. Vor dem Seminar lesen Sie die Literatur zur Seminarsitzung. (2) In den Integrationssitzungen tragen wir zusammen, was Sie in den inhaltlichen Sitzungen gelernt haben. In Ihrer Gruppe fertigen Sie fortwährend eine [Concept-Map](https://de.wikipedia.org/wiki/Concept-Map) an. Für die Anfertigung der Concept-Maps verwenden wir [Sketchboard](https://sketchboard.me/), eine Webapp.
 
 *Ilias*. Die Literatur, die Foren und die Abgaben finden Sie auf [Ilias](https://ilias.uni-freiburg.de/goto.php?target=crs_634600&client_id=unifreiburg). GitHub dient lediglich der Darstellung des Syllabus.
 
@@ -61,7 +61,7 @@ Wenn Sie in Lernaufgabe II eine 2,0, in Lernaufgabe III eine 1,7 und in Lernaufg
 
 Das Seminar gilt bestanden, wenn ...
 
-* das Seminar regelmäßig besucht wurde (maximal 1 Fehltermin)
+* das Seminar regelmäßig besucht wurde (maximal 2 Fehltermine)
 * die Lernaufgaben bestanden haben
 * ihre Concept-Map am Ende des Seminars abgegeben haben
 
@@ -72,9 +72,10 @@ Das Seminar gilt bestanden, wenn ...
 * 31.10. Gedächtnis I
 * 07.11. Gedächtnis II
 * 14.11. **Integration**
-* 21.11. *Lernaufgabe I*
-* 28.11. Wissensrepräsentation
-* 05.12. Lernen
+* 18.11. *Lernaufgabe I*
+* 21.11. Wissensrepräsentation
+* 28.11. Lernprozesse
+* 05.12. Lernstrategien
 * 12.12. **Integration**
 * 16.12. *Lernaufgabe II*
 * 19.12. Expertise
