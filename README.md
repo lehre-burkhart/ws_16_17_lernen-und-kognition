@@ -39,7 +39,8 @@ Im Verlauf des Seminars beantworten Sie vier Lernaufgaben. Lernaufgaben beschäf
 |---------- | ----------- | ------------- | 
 | Zeitplanung          |  Die Person hat alle Lernaufgaben und alle Kommentare fristgerecht abgegeben. |
 | Sprache              |  Die Lernaufgaben sind in ganzen Sätzen geschrieben und für Außenstehende verständlich. Die Lernaufgaben werden in [wohlgeformte Paragrafen](http://www.wikihow.com/Write-a-Paragraph) geschrieben. |
-| Inhalt               | Die Person benennt grundlegende Konzepte. Zusammenhänge zwischen den Konzepten werden hergestellt. Es werden Unterordnungen der Konzepte erklärt (z.B. Beispiele).  |
+| Inhalt               | Die Lernaufgaben werden den Theorien entsprechend korrekt beantwortet. Die Person benennt grundlegende Konzepte. Zusammenhänge zwischen den Konzepten werden hergestellt. Es werden Unterordnungen der Konzepte erklärt (z.B. Beispiele).
+ |
 | Negatives Monitoring | Die Person beschreibt und elaboriert, was Sie noch nicht verstanden hat. Sie geht dabei auf ihr Vorwissen ein. |
 | Feedback             |  Das Feedback ist in ganzen Sätzen geschrieben, elaboriert (Was und Warum) und spezifisch. Die Person beschreibt Unterschiede in der Beantwortung der eigenen Lernaufgabe. |
 
