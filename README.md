@@ -10,7 +10,7 @@
 
 *Ilias*. Die Literatur, die Foren und die Abgaben finden Sie auf [Ilias](https://ilias.uni-freiburg.de/goto.php?target=crs_634600&client_id=unifreiburg). GitHub dient lediglich der Darstellung des Syllabus.
 
-*Ziel*. Mein Ziel ist es, dass Sie am Ende des Seminars das menschliche Gedächtnis und Lernen erklären können. Sie sollten in der Lage sein, ihr eigenes Lernverhalten auf Grundlage des Seminars zu verbessern. Ich erwarte mir zudem, dass sie ein zusammenhänges Wissen über alle Themen des Seminars erlangen.
+*Ziel*. Ich möchte, dass Sie nach dem Seminar in der Lage sind,  den Aufbau und die Funktionsweise des menschlichen Gedächtnisses und deren Relevanz für Lernprozesse erklären zu können. Sie sollen ein zusammenhängendes Wissen verschiedener Theorien grundlegender und höherer geistiger Prozesse erlangen.
 
 *Relevanz*. Ihr Studium baut auf den Inhalten dieses Seminars auf. E-Learning Produkte, Trainings, Personalentwicklungen und Lehrbücher fußen auf der Vorstellung, wie die menschliche Kognition funktioniert. Indem Sie zusammenhängendes Wissen der Inhalte dieses Seminars aufbauen, sind Sie in der Lage, bessere Lernangebote in Ihren Studium und späterem Berufsleben zu entwickeln.
 
@@ -35,20 +35,13 @@ Im Verlauf des Seminars beantworten Sie vier Lernaufgaben. Lernaufgaben beschäf
 
 ## Bewertungsraster Lernaufgaben
 
-| Kriterium   | Übersteigt Erwartungen   |
+| Kriterium   | Punkte | Übersteigt Erwartungen   |
 |---------- | ----------- | ------------- | 
-| Zeitplanung          |  Die Person hat alle Lernaufgaben und alle Kommentare fristgerecht abgegeben. |
-| Sprache              |  Die Lernaufgaben sind in ganzen Sätzen geschrieben und für Außenstehende verständlich. Die Lernaufgaben werden in [wohlgeformte Paragrafen](http://www.wikihow.com/Write-a-Paragraph) geschrieben. |
-| Inhalt               | Die Lernaufgaben werden den Theorien entsprechend korrekt beantwortet. Die Person benennt grundlegende Konzepte. Zusammenhänge zwischen den Konzepten werden hergestellt. Es werden Unterordnungen der Konzepte erklärt (z.B. Beispiele).
+| Zeitplanung          | 1 |  Die Person hat alle Lernaufgaben und alle Kommentare fristgerecht abgegeben. |
+| Sprache              | 2 |  Die Lernaufgaben sind in ganzen Sätzen geschrieben und für Außenstehende verständlich. Die Lernaufgaben werden in [wohlgeformte Paragrafen](http://www.wikihow.com/Write-a-Paragraph) geschrieben. |
+| Inhalt             | 5 | Die Lernaufgaben werden den Theorien entsprechend korrekt beantwortet. Die Person benennt grundlegende Konzepte. Zusammenhänge zwischen den Konzepten werden hergestellt. Es werden Unterordnungen der Konzepte erklärt (z.B. Beispiele). Die Person geht auf Ihr eigenes Vorwissen ein.
  |
-| Negatives Monitoring | Die Person beschreibt und elaboriert, was Sie noch nicht verstanden hat. Sie geht dabei auf ihr Vorwissen ein. |
-| Feedback             |  Das Feedback ist in ganzen Sätzen geschrieben, elaboriert (Was und Warum) und spezifisch. Die Person beschreibt Unterschiede in der Beantwortung der eigenen Lernaufgabe. |
-
-Für jedes Kriterium gibt es drei Bewertungen:
-
-* **Erfüllt Erwartungen nicht**. 0 Punkte
-* **Erfüllt Erwartungen**. 1 Punkt
-* **Übersteigt Erwartungen**. 2 Punkte
+| Feedback             | 2 |  Das Feedback ist in ganzen Sätzen geschrieben, elaboriert (Was und Warum) und spezifisch. Die Person beschreibt Unterschiede in der Beantwortung der eigenen Lernaufgabe. |
 
 Die Note wird aus dem arithmetischen Mittel der letzten drei Lernaufgaben gebildet. Die erste Lernaufgabe wird *nicht* benotet. Die Punkte aller Kritieren werden pro Lernaufgabe aufaddiert und ergeben die Note:
 
