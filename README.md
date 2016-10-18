@@ -39,8 +39,7 @@ Im Verlauf des Seminars beantworten Sie vier Lernaufgaben. Lernaufgaben beschäf
 |---------- | ----------- | ------------- | 
 | Zeitplanung          | 1 |  Die Person hat alle Lernaufgaben und alle Kommentare fristgerecht abgegeben. |
 | Sprache              | 2 |  Die Lernaufgaben sind in ganzen Sätzen geschrieben und für Außenstehende verständlich. Die Lernaufgaben werden in [wohlgeformte Paragrafen](http://www.wikihow.com/Write-a-Paragraph) geschrieben. |
-| Inhalt             | 5 | Die Lernaufgaben werden den Theorien entsprechend korrekt beantwortet. Die Person benennt grundlegende Konzepte. Zusammenhänge zwischen den Konzepten werden hergestellt. Es werden Unterordnungen der Konzepte erklärt (z.B. Beispiele). Die Person geht auf Ihr eigenes Vorwissen ein.
- |
+| Inhalt             | 5 | Die Lernaufgaben werden den Theorien entsprechend korrekt beantwortet. Die Person benennt grundlegende Konzepte. Zusammenhänge zwischen den Konzepten werden hergestellt. Es werden Unterordnungen der Konzepte erklärt (z.B. Beispiele). Die Person geht auf Ihr eigenes Vorwissen ein. |
 | Feedback             | 2 |  Das Feedback ist in ganzen Sätzen geschrieben, elaboriert (Was und Warum) und spezifisch. Die Person beschreibt Unterschiede in der Beantwortung der eigenen Lernaufgabe. |
 
 Die Note wird aus dem arithmetischen Mittel der letzten drei Lernaufgaben gebildet. Die erste Lernaufgabe wird *nicht* benotet. Die Punkte aller Kritieren werden pro Lernaufgabe aufaddiert und ergeben die Note:
