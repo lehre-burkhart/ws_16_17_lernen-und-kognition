@@ -36,7 +36,7 @@ Im Verlauf des Seminars beantworten Sie vier Lernaufgaben. Lernaufgaben beschäf
 ## Bewertungsraster Lernaufgaben
 
 | Kriterium   | Punkte | Übersteigt Erwartungen   |
-|---------- | ----------- | ------------- | 
+|---------- | ----  | ----------- | ------------- | 
 | Zeitplanung          | 1 |  Die Person hat alle Lernaufgaben und alle Kommentare fristgerecht abgegeben. |
 | Sprache              | 2 |  Die Lernaufgaben sind in ganzen Sätzen geschrieben und für Außenstehende verständlich. Die Lernaufgaben werden in [wohlgeformte Paragrafen](http://www.wikihow.com/Write-a-Paragraph) geschrieben. |
 | Inhalt             | 5 | Die Lernaufgaben werden den Theorien entsprechend korrekt beantwortet. Die Person benennt grundlegende Konzepte. Zusammenhänge zwischen den Konzepten werden hergestellt. Es werden Unterordnungen der Konzepte erklärt (z.B. Beispiele). Die Person geht auf Ihr eigenes Vorwissen ein. |
