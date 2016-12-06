@@ -6,7 +6,7 @@
 
 *Aufbau Seminar*. Zu Beginn des Seminars beschäftigen wir uns mit grundlegenden Prozessen des menschlichen Gedächtnisses. Wir besprechen die Wichtigkeit der Aufmerksamkeit für die Verarbeitung von Sinnesreizen; Sie lernen Theorien kennen, die beschreiben, wie das Gedächtnis aufgebaut ist. Nachdem den grundlegenden Prozessen beschäftigen wir uns mit höheren geistigen Prozessen. Wir überlegen uns, was Experten von Novizen unterscheidet, was Transfer beim Lernen bedeutet, oder was unter Intelligenz verstanden wird. Um sich die Inhalte anzueignen werden Sie vier Lernaufgaben bearbeiten. Lernaufgaben befassen sich mit den Inhalten der zurückliegenden Sitzungen. Aus der Bewertung Ihrer letzten drei Lernaufgaben bilde ich Ihre Note. 
 
-*Präsenzsitzungen*. Das Seminar wird von mir geleitet. Es gibt zwei Arten von Sitzungen. (1) Inhaltliche Sitzungen und (2) Integrationssitzungen. (1) Inhaltliche Sitzungen beginnen mit einem kurzen Einführungsvortrag und einer von mir angeleiteten Gruppenarbeit. Vor dem Seminar lesen Sie die Literatur zur Seminarsitzung. (2) In den Integrationssitzungen tragen wir zusammen, was Sie in den inhaltlichen Sitzungen gelernt haben. In Ihrer Gruppe fertigen Sie fortwährend eine [Concept-Map](https://de.wikipedia.org/wiki/Concept-Map) an. Für die Anfertigung der Concept-Maps verwenden wir [Sketchboard](https://sketchboard.me/), eine Webapp.
+*Präsenzsitzungen*. Das Seminar wird von mir geleitet. Es gibt zwei Arten von Sitzungen. (1) Inhaltliche Sitzungen und (2) Integrationssitzungen. (1) Inhaltliche Sitzungen beginnen mit einem kurzen Einführungsvortrag und einer von mir angeleiteten Gruppenarbeit. Vor dem Seminar lesen Sie die Literatur zur Seminarsitzung. (2) In den Integrationssitzungen tragen wir zusammen, was Sie in den inhaltlichen Sitzungen gelernt haben.
 
 *Ilias*. Die Literatur, die Foren und die Abgaben finden Sie auf [Ilias](https://ilias.uni-freiburg.de/goto.php?target=crs_634600&client_id=unifreiburg). GitHub dient lediglich der Darstellung des Syllabus.
 
@@ -54,9 +54,9 @@ Wenn Sie in Lernaufgabe II eine 2,0, in Lernaufgabe III eine 1,7 und in Lernaufg
 
 Das Seminar gilt bestanden, wenn ...
 
-* das Seminar regelmäßig besucht wurde (maximal 2 Fehltermine)
-* die Lernaufgaben bestanden haben
-* ihre Concept-Map am Ende des Seminars abgegeben haben
+* Sie das Seminar regelmäßig besucht wurde (maximal 2 Fehltermine)
+* Sie 2 von 3 Lernaufgaben abgegeben haben. Sollten Sie 1 von 3 Aufgaben abgeben, gilt das Seminar als nicht bestanden. Wenn Sie 3 von 3 Lernaufgaben abgeben, können Sie entscheiden, welche zwei Aufgaben Sie bewerten lassen.
+* Sie die Lernaufgaben bestanden haben
 
 ## Termine
 
